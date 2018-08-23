@@ -4,6 +4,7 @@ import java.awt.Color;
 import java.awt.Graphics;
 
 public class Player extends GameObject implements GameMethods {
+	
 
 	public Player(int x, int y, ID id) {
 		super(x, y, id);

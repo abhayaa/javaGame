@@ -4,6 +4,7 @@ import java.awt.Color;
 import java.awt.Graphics;
 
 public class HUD implements GameMethods {
+	
 
 	public static int HEALTH = 100;
 

@@ -21,6 +21,7 @@ public class WeakEnemy extends GameObject {
 		if (x <= 0 || x >= Game.WIDTH - 32)
 			velX *= -1;
 	}
+	
 
 	@Override
 	public void render(Graphics g) {
